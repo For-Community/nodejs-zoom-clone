@@ -20,4 +20,4 @@
 
 - in the terminal write `nodemon server.js`
 
-- open browser and type localhost:3030
+- open browser and type `localhost:3030`
