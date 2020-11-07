@@ -18,6 +18,6 @@
 
 - `npm i nodemon`
 
-- in the terminal write nodemon server.js
+- in the terminal write `nodemon server.js`
 
 - open browser and type localhost:3030
